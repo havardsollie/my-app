@@ -1,4 +1,3 @@
-// Timeseries.js or Timeseries.tsx
 import React, { useState, useEffect } from "react";
 import { WeatherData } from "../common/types";
 import { fetchData } from "../common/api";
